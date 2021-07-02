@@ -1,0 +1,7 @@
+package fr.isikacdi9.annotation.bean;
+
+public class Pays {
+
+	private String nomPays;
+
+}

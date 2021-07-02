@@ -1,0 +1,7 @@
+package fr.isika.cdi9.bean;
+
+public class Salle {
+
+	private Professeur prof;
+	private Etudiant etudiant;
+}

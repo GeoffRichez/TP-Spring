@@ -1,0 +1,30 @@
+package fr.isika.cdi9.livraison.bean;
+
+public class Commande {
+
+	private Fournissseur fournisseur;
+	private Client client;
+	
+	public void passerUneCommande() {
+		System.out.println("Merci d'avoir effectué la commande Mr "+client.getNomClient());
+		System.out.println("Le fournisseur :"+fournisseur.getNomFournisseur()+" sera averti de cette dernière; ");
+		System.out.println(("vous serez livré a l'adresse :"+client.toString()));
+	}
+
+	public Fournissseur getFournisseur() {
+		return fournisseur;
+	}
+
+	public void setFournisseur(Fournissseur fournisseur) {
+		this.fournisseur = fournisseur;
+	}
+
+	public Client getClient() {
+		return client;
+	}
+
+	public void setClient(Client client) {
+		this.client = client;
+	}
+
+}

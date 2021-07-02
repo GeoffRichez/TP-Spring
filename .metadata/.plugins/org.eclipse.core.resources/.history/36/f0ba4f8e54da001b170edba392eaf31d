@@ -1,0 +1,5 @@
+package fr.isika.cdi9.spring.bean;
+
+public class HelloWorld {
+
+}

@@ -1,0 +1,5 @@
+package fr.isikacdi9.annotation.bean;
+
+public class Ville {
+
+}

@@ -1,0 +1,12 @@
+package fr.isika.cdi9.bean;
+
+public class QuestionJava implements IQuestion{
+
+	@Override
+	public void poseLaQuestion() {
+		// TODO Auto-generated method stub
+		System.out.println("Java bien ou pas?");
+		
+	}
+
+}

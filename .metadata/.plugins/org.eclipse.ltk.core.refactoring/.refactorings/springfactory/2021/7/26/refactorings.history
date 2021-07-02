@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;fr.isika.cdi9.spring&apos; to &apos;fr.isika.cdi9.spring.bean&apos;&#x0A;- Original project: &apos;springfactory&apos;&#x0A;- Original element: &apos;springfactory/src/main/java/fr.isika.cdi9.spring&apos;&#x0A;- Renamed element: &apos;springfactory/src/main/java/fr.isika.cdi9.spring.bean&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;fr.isika.cdi9.spring&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;fr.isika.cdi9.spring" name="fr.isika.cdi9.spring.bean" qualified="false" references="true" stamp="1625130196081" textual="false" version="1.0"/>
+</session>

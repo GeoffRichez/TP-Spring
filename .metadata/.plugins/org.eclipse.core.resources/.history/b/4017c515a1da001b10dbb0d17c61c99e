@@ -1,0 +1,20 @@
+package fr.isika.cdi9.livraison.bean;
+
+public class Commande {
+
+	private Fournissseur fournisseur;
+	private Client client;
+	public Fournissseur getFournisseur() {
+		return fournisseur;
+	}
+	public void setFournisseur(Fournissseur fournisseur) {
+		this.fournisseur = fournisseur;
+	}
+	public Client getClient() {
+		return client;
+	}
+	public void setClient(Client client) {
+		this.client = client;
+	}
+	
+}

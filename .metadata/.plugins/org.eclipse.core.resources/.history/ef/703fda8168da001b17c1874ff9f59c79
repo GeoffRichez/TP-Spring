@@ -1,0 +1,9 @@
+package fr.isika.cdi9.programme;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public abstract class Main {
+
+	ApplicationContext contexte = new ClassPathXmlApplicationContext("");
+}

@@ -1,0 +1,17 @@
+package fr.isikacdi9.annotation.bean;
+
+@Component
+public class Pays {
+
+	@Value("France")
+	private String nomPays;
+
+	public String getNomPays() {
+		return nomPays;
+	}
+
+	public void setNomPays(String nomPays) {
+		this.nomPays = nomPays;
+	}
+
+}

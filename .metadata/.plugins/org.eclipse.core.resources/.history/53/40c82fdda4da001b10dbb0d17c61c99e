@@ -1,0 +1,25 @@
+package fr.isika.cdi9.livraison.bean;
+
+public class Client {
+
+
+	private String nomClient;
+	private Adresse adresse;
+
+	public String getNomClient() {
+		return nomClient;
+	}
+
+	public void setNomClient(String nomClient) {
+		this.nomClient = nomClient;
+	}
+
+	public Adresse getAdresse() {
+		return adresse;
+	}
+
+	public void setAdresse(Adresse adresse) {
+		this.adresse = adresse;
+	}
+
+}

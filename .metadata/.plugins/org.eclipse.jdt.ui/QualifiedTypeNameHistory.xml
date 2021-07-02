@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.bean.GateauChocolat"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.bean.GateauPomme"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.factory.AbstratGateauFactory"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.factory.GateauFactory"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.bean.IGateau"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.bean.HelloWorld"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.spring.bean.ISalutation"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.bean.IPersonne"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.bean.Etudiant"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.bean.Salle"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.bean.IQuestion"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.service.IServiceGestionQuestion"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.annotation.config.MaConfig"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.annotation.bean.Region"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.livraison.bean.Fournissseur"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.livraison.bean.Client"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.livraison.bean.Commande"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.EnableAspectJAutoProxy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.After"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="fr.isika.cdi9.confi.MaConfig"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+</qualifiedTypeNameHistroy>

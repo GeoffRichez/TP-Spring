@@ -1,0 +1,8 @@
+package fr.isika.cdi9.livraison.bean;
+
+public class Fournissseur {
+
+	private String nom;
+	private Reference ref;
+
+}

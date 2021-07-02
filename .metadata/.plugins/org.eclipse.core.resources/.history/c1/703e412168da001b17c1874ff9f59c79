@@ -1,0 +1,14 @@
+package fr.isika.cdi9.bean;
+
+public class Professeur implements IPersonne {
+	
+	private float salaire;
+
+	@Override
+	public void sePresenter() {
+		// TODO Auto-generated method stub
+		System.out.println("Je suis un prof, salaire :"+salaire);
+		
+	}
+
+}

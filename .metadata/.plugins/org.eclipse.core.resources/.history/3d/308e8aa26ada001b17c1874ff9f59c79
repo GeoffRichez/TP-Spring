@@ -1,0 +1,21 @@
+package fr.isika.cdi9.bean;
+
+public class Etudiant implements IPersonne{
+	
+	private String numEtudiant;
+
+	@Override
+	public void sePresenter() {
+		// TODO Auto-generated method stub
+		System.out.println("Je suis un étudiant ");
+	}
+
+	public String getNumEtidiant() {
+		return numEtudiant;
+	}
+
+	public void setNumEtidiant(String numEtudiant) {
+		this.numEtudiant = numEtudiant;
+	}
+	
+}

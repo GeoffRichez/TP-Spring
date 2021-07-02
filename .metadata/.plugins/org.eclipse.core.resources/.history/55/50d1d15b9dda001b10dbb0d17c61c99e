@@ -1,0 +1,32 @@
+package fr.isikacdi9.annotation.bean;
+
+public class Region {
+
+	private String nomRegion;
+	private Pays pays;
+	private Ville ville;
+
+	public String getNomRegion() {
+		return nomRegion;
+	}
+
+	public void setNomRegion(String nomRegion) {
+		this.nomRegion = nomRegion;
+	}
+
+	public Pays getPays() {
+		return pays;
+	}
+
+	public void setPays(Pays pays) {
+		this.pays = pays;
+	}
+
+	public Ville getVille() {
+		return ville;
+	}
+
+	public void setVille(Ville ville) {
+		this.ville = ville;
+	}
+}

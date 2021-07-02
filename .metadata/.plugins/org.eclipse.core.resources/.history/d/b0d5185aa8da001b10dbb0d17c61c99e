@@ -1,0 +1,24 @@
+package fr.isika.cdi9.livraison.bean;
+
+public class Fournissseur {
+
+	private String nom;
+	private Reference ref;
+
+	public String getNomFournisseur() {
+		return nom;
+	}
+
+	public void setNomFournisseur(String nomFournisseur) {
+		this.nom = nomFournisseur;
+	}
+
+	public Reference getRef() {
+		return ref;
+	}
+
+	public void setRef(Reference ref) {
+		this.ref = ref;
+	}
+
+}

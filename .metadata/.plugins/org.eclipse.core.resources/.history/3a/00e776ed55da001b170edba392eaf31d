@@ -1,0 +1,11 @@
+package fr.isika.cdi9.spring.bean;
+
+public class HelloWorld implements ISalutation{
+
+	@Override
+	public void direBonjour() {
+		System.out.println("Hello World! ");
+		
+	}
+
+}

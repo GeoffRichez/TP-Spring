@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/richez/eclipse/SpringWorkspace/exo-aop-xml"/>
+			<item value="/home/richez/eclipse/SpringWorkspace/livraisonDistance"/>
+			<item value="/home/richez/eclipse/SpringWorkspace/annotation"/>
+			<item value="/home/richez/eclipse/SpringWorkspace/springfactory/pom.xml"/>
+			<item value="/home/richez/eclipse/SpringWorkspace/helloWorld"/>
+			<item value="/home/richez/eclipse/SpringWorkspace/springfactory"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="fr.isika.cdi9.spring"/>
+			<item value="fr.isika.cdi9.spring.livraison"/>
+			<item value="fr.isika.cdi9.spring.annotations"/>
+			<item value="fr.isika.cdi9.spring.questionnaire"/>
+		</list>
+		<list key="name">
+			<item value="exo-annotation"/>
+			<item value="livraisonDistance"/>
+			<item value="annotation"/>
+			<item value="Questionnaire"/>
+			<item value="exo-autowire"/>
+			<item value="HelloWorld"/>
+			<item value="maFactory"/>
+		</list>
+		<list key="artifactId">
+			<item value="exo-aop-annotation"/>
+			<item value="exo-aop-xml"/>
+			<item value="livraisonDistance"/>
+			<item value="annotation"/>
+			<item value="Questionnaire"/>
+			<item value="fr.isika.cdi9.spring.questionnaire"/>
+			<item value="exo-autowire"/>
+			<item value="helloWorld"/>
+			<item value="springfactory"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

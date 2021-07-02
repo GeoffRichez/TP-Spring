@@ -1,0 +1,8 @@
+package fr.isikacdi9.annotation.bean;
+
+public class Region {
+	private String nomRegion;
+	private Pays pays;
+	private Ville ville;
+
+}

@@ -1,0 +1,15 @@
+package fr.isikacdi9.annotation.bean;
+
+public class Pays {
+
+	private String nomPays;
+
+	public String getNomPays() {
+		return nomPays;
+	}
+
+	public void setNomPays(String nomPays) {
+		this.nomPays = nomPays;
+	}
+
+}

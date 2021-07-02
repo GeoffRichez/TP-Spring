@@ -1,0 +1,30 @@
+package com.formation.spring.config;
+
+import org.springframework.context.annotation.Bean; 
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+import com.formation.spring.bean.Pays;
+import com.formation.spring.bean.Region;
+import com.formation.spring.bean.Ville;
+
+@Configuration
+@ComponentScan("com.formation.spring.bean")
+public class MaConfig {
+
+//	@Bean
+//	public Pays pays() {
+//		return new Pays();
+//	}
+//
+//	@Bean
+//	public Region region() {
+//		return new Region();
+//	}
+//
+//	@Bean
+//	public Ville ville() {
+//		return new Ville();
+//	}
+
+}
