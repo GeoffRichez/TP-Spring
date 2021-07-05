@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;fr.isika.cdi9.spring.questionnaire&apos;" deleteContents="false" description="Delete resource &apos;fr.isika.cdi9.spring.questionnaire&apos;" element1="/fr.isika.cdi9.spring.questionnaire" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625144268563"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;fr.isika.cdi9.spring.questionnaire&apos;" deleteContents="false" description="Delete resource &apos;fr.isika.cdi9.spring.questionnaire&apos;" element1="/fr.isika.cdi9.spring.questionnaire" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625144268563"/>&#x0A;<refactoring comment="Rename resource &apos;exo-dossier&apos; to &apos;exo-hibernate&apos;" description="Rename resource &apos;exo-dossier&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/exo-dossier" name="exo-hibernate" stamp="1625235272947" updateReferences="true"/>
 </session>
